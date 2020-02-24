@@ -52,3 +52,8 @@ The normal user can exchange his points for this activity. When he exchanges his
 
 The app is to promote learning in a fun way for the child to be responsible.
 
+# Technology Planned
+
+- NativeScript for Mobile Development
+- Firebase Cloud Store for Database
+- Firebase Cloud Functions for API
